@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 ## <img src="https://api.iconify.design/mdi:account-circle.svg?color=%23E53935" width="26" height="26"/> About Me
 
 <table>
@@ -88,11 +86,14 @@ I enjoy learning by **building real projects**, experimenting with new technolog
 
 </p>
 
-## <img src="https://api.iconify.design/mdi:trophy.svg?color=%23E53935" width="26" height="26"/> GitHub Achievements
+## <img src="https://api.iconify.design/mdi:chart-box.svg?color=%23E53935" width="26" height="26"/> GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Firentsu&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Firentsu&theme=github_dark" width="90%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Firentsu&theme=github_dark" width="44%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Firentsu&theme=github_dark" width="44%"/>
 
 </div>
 
@@ -112,7 +113,7 @@ I enjoy learning by **building real projects**, experimenting with new technolog
 <img src="https://img.shields.io/badge/GitHub-Firentsu-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/florensius-andhika/">
+<a href="https://linkedin.com/in/florensius-andhika/">
 <img src="https://img.shields.io/badge/LinkedIn-Florensius_Andhika-E53935?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
