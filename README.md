@@ -48,7 +48,7 @@ I enjoy learning by **building real projects**, experimenting with new technolog
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Firentsu&show_icons=true&hide=prs,issues&count_private=true&hide_border=true&bg_color=0D1117&title_color=E53935&icon_color=E53935&text_color=C9D1D9" width="100%"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s4a24yajVoZjh2ZDI1czl2eGlydnh4NjNkczBraHV0N3phdmtpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OdtPC5sh31PNQDd9oX/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -60,7 +60,7 @@ I enjoy learning by **building real projects**, experimenting with new technolog
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=php,python,kotlin,javascript,dart,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,dart,kotlin" />
 
 </p>
 
@@ -100,7 +100,7 @@ I enjoy learning by **building real projects**, experimenting with new technolog
 
 <div align="center">
 
-`System Design` · `REST API` · `Python` · `Javascript` · `NextJS` · `Flutter`
+`UI/UX` · `REST API` · `Python` · `Javascript` · `NextJS` · `Flutter`
 
 </div>
 
@@ -112,7 +112,15 @@ I enjoy learning by **building real projects**, experimenting with new technolog
 <img src="https://img.shields.io/badge/GitHub-Firentsu-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:florensi...">
+<a href="https://www.linkedin.com/in/florensius-andhika/">
+<img src="https://img.shields.io/badge/LinkedIn-Florensius_Andhika-E53935?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/flo.andhika">
+<img src="https://img.shields.io/badge/Instagram-flo.andhika-E53935?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:florensiusandhika24@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
