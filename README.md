@@ -135,7 +135,7 @@ I enjoy learning by **building real projects**, experimenting with new technolog
 
 <br/><br/>
 
-**<img src="https://api.iconify.design/mdi:flash.svg?color=%23E53935" width="20" height="20"/> Carpe Diem — Seize the Day.**
+**<img src="https://api.iconify.design/mdi:flash.svg?color=%23E53935" width="20" height="20"/> Carpe Diem - Seize the Day.**
 
 </div>
 
